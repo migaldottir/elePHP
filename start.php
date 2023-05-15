@@ -7,8 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
-   <from action="functions.php" method="get">
+   <form action="functions.php" method="get">
     <input type="text" name="num01" placeholder="Number 1">
     <select name="oper">
         <label>Choose operation</label>
